@@ -2,4 +2,6 @@ Esto es n archivo de prueba
 
 Esta es otra línea
 
+Una línea más
+
 Línea final
