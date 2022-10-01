@@ -1,4 +1,4 @@
-Esto es n archivo de prueba
+Esto es un archivo de prueba
 
 Esta es otra línea
 
